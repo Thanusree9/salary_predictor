@@ -51,5 +51,5 @@ Future Features
 
 Live Demo 
 
-👉 [Click to view live app](https://employee-salary-predictor.streamlit.app/) 
+👉 [Click to view live app](https://salarypredictor-gwdfhrwpmqgqj8jgc5fjjb.streamlit.app/) 
 
